@@ -1,0 +1,552 @@
+{
+  "last_node_id": 21,
+  "last_link_id": 39,
+  "nodes": [
+    {
+      "id": 18,
+      "type": "TextInput_",
+      "pos": {
+        "0": -668,
+        "1": 208
+      },
+      "size": {
+        "0": 400,
+        "1": 200
+      },
+      "flags": {
+        "collapsed": true
+      },
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            31
+          ],
+          "label": "字符串",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "TextInput_"
+      },
+      "widgets_values": [
+        "elf,tiger ears,tiger girl,horse girl,double bun,short eyebrows,rabbit-shaped pupils, rabbit girl,jewelry,eyewear,'sunglasses',glasses,wings,braided ponytail,braid,beret,hat,headwear,'sun hat','braid','official alternate costume','tentacle hair','red ribbon','tentacle hair',red headwear,harvin,erune,animal ear fluff,'hair','eyes','choker','medium hair','1girl','large breasts','twintails','girl on top','multiple girls','hair ornament','animal ears','hairband','symbol-shaped pupils','fake animal ears','heart-shaped pupils','mouse ears','long hair','one eye closed','dark skin','pubic hair','upper teeth only','looking over eyewear','red-tinted eyewear','eyeshadow','v-shaped eyebrows','wide-eyed','constricted pupils','bloodshot eyes','tail','cat ears','cat tail','half-closed eyes','cat girl','eyepatch','empty eyes','medical eyepatch','very long hair','hair bow','hairclip','green eyes','rabbit ears','streaked hair','hair tie','adjusting hair','hair tie in mouth','earrings','ribbon','halo','braid','pointy ears','feathered wings','angel wings','single side bun','low twintails','alternate costume','closed eyes','long bangs','absurdly long hair','blue halo','mechanical halo','facial hair','ahoge','two-tone hair','gradient hair','eyelashes','straight hair','pale skin','black wings','detached wings','energy wings','hair flowing over','broken halo','dark halo','ponytail','round eyewear','pearl earrings','glowing eyes','cowgirl position','drill hair','horns','demon horns','shiny skin','crossed bangs','fox ears','necklace','wavy hair','wolf ears','wolf tail','extra ears','bead necklace','scar across eye','colored eyelashes','butterfly hair ornament','dark-skinned female','covering face','ringed eyes','frilled hair tubes','ear piercing','cow horns','draph','cow tail','monkey tail','forehead','red ribbon','fox tail','skull hair ornament','eyes visible through hair','asymmetrical hair','official alternate hairstyle','mini wings','multicolored wings','star halo','heart hair ornament','spiked choker','high ponytail','tentacle hair','choker','fangs','pom pom hair ornament','floating hair','forked tail','ribbon-trimmed skirt','leaf hair ornament','short hair with long locks','fake horns','blood in hair','diamond hair ornament','skin fang','braided ponytail','multicolored eyes','demon tail','o-ring choker','playboy bunny','bob cut','button eyes','braided bangs','heart choker','tassel hair ornament','asymmetrical horns','demon wings','butterfly wings','horse ears','horse tail','side ponytail','diamond-shaped pupils','dog ears','bandaid hair ornament','neck ribbon','ribbon hair ornament','sharp teeth','messy hair','bright pupils','one side up','bags under eyes','hairband','braid','blue wings','star hair ornament','side ponytail','twisted horns','swirling eyes','vampire teeth' ];,",
+        [
+          false,
+          true
+        ]
+      ]
+    },
+    {
+      "id": 20,
+      "type": "TextInput_",
+      "pos": {
+        "0": -666,
+        "1": 260
+      },
+      "size": {
+        "0": 400,
+        "1": 200
+      },
+      "flags": {
+        "collapsed": true
+      },
+      "order": 1,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            32
+          ],
+          "label": "字符串",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "TextInput_"
+      },
+      "widgets_values": [
+        "crown,striped clothes,vertical-striped clothes,loafers,flower,sleeves,footwear,cosplay,bodystocking,stiletto heels,colored shoe soles,side slit,pelvic curtain,backless outfit,sleeveless,veil,see-through,mouth veil,santa costume,fur-trimmed headwear,'swimsuit','bikini','strap gap','skirt','gloves','thighhighs','jacket','fingerless gloves','open jacket','leather jacket','long sleeves','bow','boots','detached sleeves','belt','wide sleeves','high heels','side-tie bikini bottom','thigh boots','micro bikini','striped bikini','heart brooch','bikini bottom aside','bikini top lift','black gloves','black footwear','turtleneck','cropped jacket','short sleeves','yellow gloves','boxing gloves','shirt','collared shirt','shorts','shoes','socks','white jacket','white footwear','bow','grey shorts','multicolored jacket','dress','asymmetrical legwear','single leg pantyhose','frills','bowtie','detached collar','sandals','toenails','frilled bikini','jewelry','bell','shirt','official alternate costume','short shorts','shirt lift','track jacket','gym uniform','gym shirt','gym shorts','flowers','leotard','black leotard','cuffs','handcuffs','torn leotard','school uniform','capelet','scrunchie','wrist scrunchie','blue skirt','sweater','red shorts','underwear','panties','japanese clothes','kimono','pasties','open kimono','collar','black panties','highleg','highleg panties','black sweater','tentacle hair','vest','uniform','white socks','wing collar','long skirt','blue footwear','blue vest','serafuku','neckerchief','white skirt','cardigan','slippers','frilled collar','underwear only','china dress','print dress','striped coat','beret','school swimsuit','one-piece swimsuit','shawl','collar','micro shorts','cow costume','casual one-piece swimsuit','green one-piece swimsuit','hood','scarf','coat','fur trim','beanie','white scarf','black dress','sleeveless dress','arm strap','elbow gloves','strappy heels','bodysuit','red bodysuit','wrist cuffs','no shoes','garter straps','grey thighhighs','thigh strap','vibrator','jacket on shoulders','pants rolled up','red ribbon','pantyhose','sailor collar','white pantyhose','thighband pantyhose','sun hat','high heel boots','fishnet thighhighs','fishnets','o-ring thigh strap','thigh belt','strapless','chinese clothes','aqua dress','aqua gloves','puffy sleeves','apron','maid headdress','pleated skirt','green skirt','black pantyhose','frilled dress','frilled apron','two-tone dress','necktie','sash','waist apron','jingle bell','neck bell','purple bow','pink kimono','sleeveless kimono','pink sleeves','hatsune miku','miniskirt','sleeveless shirt','grey shirt','yellow necktie','ascot','frilled bow','orange ascot','hoodie','bandages','black hoodie','bandaged neck','white shorts','animal costume','one-piece swimsuit','shawl','collar','green one-piece swimsuit','vest','uniform','highleg panties','tentacle hair','pants','jacket',",
+        [
+          false,
+          true
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "type": "dynamicTextFilter",
+      "pos": {
+        "0": -569,
+        "1": 144
+      },
+      "size": {
+        "0": 289.2427673339844,
+        "1": 298
+      },
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text_input",
+          "type": "STRING",
+          "link": 2,
+          "widget": {
+            "name": "text_input"
+          },
+          "label": "text_input"
+        },
+        {
+          "name": "character_features",
+          "type": "STRING",
+          "link": 31,
+          "widget": {
+            "name": "character_features"
+          },
+          "label": "character_features"
+        },
+        {
+          "name": "clothing_features",
+          "type": "STRING",
+          "link": 32,
+          "widget": {
+            "name": "clothing_features"
+          },
+          "label": "clothing_features"
+        },
+        {
+          "name": "exclude_features",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "exclude_features"
+          },
+          "label": "exclude_features"
+        },
+        {
+          "name": "custom1_features",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "custom1_features"
+          },
+          "label": "custom1_features"
+        },
+        {
+          "name": "custom2_features",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "custom2_features"
+          },
+          "label": "custom2_features"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "总输出",
+          "type": "STRING",
+          "links": null,
+          "label": "总输出"
+        },
+        {
+          "name": "角色特征",
+          "type": "STRING",
+          "links": [
+            33
+          ],
+          "slot_index": 1,
+          "label": "角色特征"
+        },
+        {
+          "name": "服装类",
+          "type": "STRING",
+          "links": [
+            34
+          ],
+          "slot_index": 2,
+          "label": "服装类"
+        },
+        {
+          "name": "自定义1",
+          "type": "STRING",
+          "links": [
+            35
+          ],
+          "slot_index": 3,
+          "label": "自定义1"
+        },
+        {
+          "name": "自定义2",
+          "type": "STRING",
+          "links": [
+            36
+          ],
+          "slot_index": 4,
+          "label": "自定义2"
+        },
+        {
+          "name": "自定义3",
+          "type": "STRING",
+          "links": [
+            37
+          ],
+          "slot_index": 5,
+          "label": "自定义3"
+        },
+        {
+          "name": "其他",
+          "type": "STRING",
+          "links": [
+            38
+          ],
+          "slot_index": 6,
+          "label": "其他"
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "dynamicTextFilter"
+      },
+      "widgets_values": [
+        "",
+        " braided,ponytail,braided ponytail,braid,beret,hat,headwear,'sun hat','braid', 'official alternate costume', 'tentacle hair', 'red ribbon', 'tentacle hair',red headwear,harvin,erune,animal ear fluff,'hair', 'eyes', 'choker', 'medium hair', '1girl', 'large breasts', 'twintails', 'girl on top', 'multiple girls',     'hair ornament', 'animal ears', 'hairband', 'symbol-shaped pupils', 'fake animal ears', 'heart-shaped pupils',     'mouse ears', 'long hair', 'one eye closed', 'dark skin', 'pubic hair', 'upper teeth only', 'looking over eyewear',     'red-tinted eyewear', 'eyeshadow', 'v-shaped eyebrows', 'wide-eyed', 'constricted pupils', 'bloodshot eyes', 'tail',     'cat ears', 'cat tail', 'half-closed eyes', 'cat girl', 'eyepatch', 'empty eyes', 'medical eyepatch', 'very long hair',     'hair bow', 'hairclip', 'green eyes', 'rabbit ears', 'streaked hair', 'hair tie', 'adjusting hair', 'hair tie in mouth',     'earrings', 'ribbon', 'halo', 'braid', 'pointy ears', 'feathered wings', 'angel wings', 'single side bun', 'low twintails',     'alternate costume', 'closed eyes', 'long bangs', 'absurdly long hair', 'blue halo', 'mechanical halo', 'facial hair', 'ahoge',     'two-tone hair', 'gradient hair', 'eyelashes', 'straight hair', 'pale skin', 'black wings', 'detached wings', 'energy wings',     'hair flowing over', 'broken halo', 'dark halo', 'ponytail', 'round eyewear', 'pearl earrings', 'glowing eyes', 'cowgirl position',     'drill hair', 'horns', 'demon horns', 'shiny skin', 'crossed bangs', 'fox ears', 'necklace', 'wavy hair', 'wolf ears', 'wolf tail',     'extra ears', 'bead necklace', 'scar across eye', 'colored eyelashes', 'butterfly hair ornament', 'dark-skinned female', 'covering face',     'ringed eyes', 'frilled hair tubes', 'ear piercing', 'cow horns', 'draph', 'cow tail', 'monkey tail', 'forehead', 'red ribbon',     'fox tail', 'skull hair ornament', 'eyes visible through hair', 'asymmetrical hair', 'official alternate hairstyle', 'mini wings',     'multicolored wings', 'star halo', 'heart hair ornament', 'spiked choker', 'high ponytail', 'tentacle hair', 'choker', 'fangs',     'pom pom hair ornament', 'floating hair', 'forked tail', 'ribbon-trimmed skirt', 'leaf hair ornament', 'short hair with long locks',     'fake horns', 'blood in hair', 'diamond hair ornament', 'skin fang', 'braided ponytail', 'multicolored eyes', 'demon tail',     'o-ring choker', 'playboy bunny', 'bob cut', 'button eyes', 'braided bangs', 'heart choker', 'tassel hair ornament', 'asymmetrical horns',     'demon wings', 'butterfly wings', 'horse ears', 'horse tail', 'side ponytail', 'diamond-shaped pupils', 'dog ears', 'bandaid hair ornament',     'neck ribbon', 'ribbon hair ornament', 'sharp teeth', 'messy hair', 'bright pupils', 'one side up', 'bags under eyes', 'hairband',     'braid', 'blue wings', 'star hair ornament', 'side ponytail', 'twisted horns', 'swirling eyes', 'vampire teeth' ];",
+        0,
+        "cosplay,bodystocking,stiletto heels,colored shoe soles,side slit,pelvic curtain,backless outfit,sleeveless,veil,see-through,mouth veil,santa costume,fur-trimmed headwear,'swimsuit','bikini','strap gap','skirt','gloves','thighhighs','jacket','fingerless gloves','open jacket','sunglasses','leather jacket','long sleeves','bow','boots','detached sleeves','belt','wide sleeves','high heels','side-tie bikini bottom','thigh boots','micro bikini','striped bikini','heart brooch','bikini bottom aside','bikini top lift','black gloves','black footwear','turtleneck','cropped jacket','short sleeves','yellow gloves','boxing gloves','shirt','collared shirt','shorts','shoes','socks','white jacket','white footwear','bow','grey shorts','multicolored jacket','dress','asymmetrical legwear','single leg pantyhose','frills','bowtie','detached collar','sandals','toenails','frilled bikini','jewelry','bell','shirt','official alternate costume','short shorts','shirt lift','track jacket','gym uniform','gym shirt','gym shorts','flowers','leotard','black leotard','cuffs','handcuffs','torn leotard','school uniform','capelet','scrunchie','wrist scrunchie','blue skirt','sweater','red shorts','underwear','panties','japanese clothes','kimono','pasties','open kimono','collar','black panties','highleg','highleg panties','black sweater','tentacle hair','vest','uniform','white socks','wing collar','long skirt','blue footwear','blue vest','serafuku','neckerchief','white skirt','cardigan','slippers','frilled collar','underwear only','china dress','print dress','striped coat','beret','school swimsuit','one-piece swimsuit','shawl','collar','micro shorts','cow costume','casual one-piece swimsuit','green one-piece swimsuit','hood','scarf','coat','fur trim','beanie','white scarf','black dress','sleeveless dress','arm strap','elbow gloves','strappy heels','bodysuit','red bodysuit','wrist cuffs','no shoes','garter straps','grey thighhighs','thigh strap','vibrator','jacket on shoulders','pants rolled up','red ribbon','pantyhose','sailor collar','white pantyhose','thighband pantyhose','sun hat','high heel boots','fishnet thighhighs','fishnets','o-ring thigh strap','thigh belt','strapless','chinese clothes','aqua dress','aqua gloves','puffy sleeves','apron','maid headdress','pleated skirt','green skirt','black pantyhose','frilled dress','frilled apron','two-tone dress','necktie','sash','waist apron','jingle bell','neck bell','purple bow','pink kimono','sleeveless kimono','pink sleeves','hatsune miku','miniskirt','sleeveless shirt','grey shirt','yellow necktie','ascot','frilled bow','orange ascot','hoodie','bandages','black hoodie','bandaged neck','white shorts','animal costume','one-piece swimsuit','shawl','collar','green one-piece swimsuit','vest','uniform','highleg panties','tentacle hair','pants','jacket',",
+        1,
+        "hand in,hand on,",
+        1,
+        "christmas,",
+        0,
+        "",
+        0,
+        "hat,scar,'lowres', 'jpeg artifacts', 'signature', 'watermark', 'text', 'artist name',     'sample', 'resolution mismatch', 'bad anatomy', 'error', 'low quality', 'character name',     'name', 'censored', 'censoring', 'censor',"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "WD14Tagger|pysssss",
+      "pos": {
+        "0": -802,
+        "1": -108
+      },
+      "size": {
+        "0": 210,
+        "1": 255.52220153808594
+      },
+      "flags": {
+        "collapsed": false
+      },
+      "order": 3,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 1,
+          "label": "图像"
+        },
+        {
+          "name": "exclude_tags",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "exclude_tags"
+          },
+          "label": "排除标签"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": [
+            2
+          ],
+          "slot_index": 0,
+          "shape": 6,
+          "label": "字符串"
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "WD14Tagger|pysssss"
+      },
+      "widgets_values": [
+        "wd-eva02-large-tagger-v3",
+        0.35000000000000003,
+        1,
+        true,
+        true,
+        ""
+      ]
+    },
+    {
+      "id": 1,
+      "type": "LoadImage",
+      "pos": {
+        "0": -1134,
+        "1": -108
+      },
+      "size": {
+        "0": 311.0693054199219,
+        "1": 528.374267578125
+      },
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            1
+          ],
+          "slot_index": 0,
+          "label": "图像"
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": null,
+          "label": "遮罩"
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoadImage"
+      },
+      "widgets_values": [
+        "00006-436252693.png",
+        "image"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "ShowText|pysssss",
+      "pos": {
+        "0": -26,
+        "1": 170
+      },
+      "size": [
+        223.09519958496094,
+        184.9569549560547
+      ],
+      "flags": {},
+      "order": 6,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "text",
+          "type": "STRING",
+          "link": 39,
+          "widget": {
+            "name": "text"
+          },
+          "label": "文本"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "STRING",
+          "type": "STRING",
+          "links": null,
+          "shape": 6,
+          "label": "字符串"
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ShowText|pysssss"
+      },
+      "widgets_values": [
+        "",
+        "1girl, long hair, beret, blue ribbon, black hat, black headwear, hair between eyes, blue eyes, white hair, blue hair, hair between eyes, hat ribbon, long hair,-----,,-----,,-----,rose,-----,,-----,<lora:Noob\\amlls-noob.safetensors:0.9:0.9>, amaryllis_(shadowverse), solo, breasts, medium breasts,,-----,thighhighs, underwear, panties, white thighhighs, pink panties,-----,,-----,,-----,,-----,breasts, blush, 1boy, holding, nipples, hetero, small breasts, sex, spread legs, cum, on back, vaginal, loli, pov, pussy juice, phone, dark-skinned male, trembling, cellphone, panty pull, smartphone, holding phone, reflection, missionary, interracial, pov hands, fat, pov crotch, female ejaculation, fat man, taking picture, netorare, female pov, cellphone photo"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "JoinStringMulti",
+      "pos": {
+        "0": -261,
+        "1": 165
+      },
+      "size": {
+        "0": 210,
+        "1": 230
+      },
+      "flags": {
+        "collapsed": false
+      },
+      "order": 5,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "string_1",
+          "type": "STRING",
+          "link": 33,
+          "widget": {
+            "name": "string_1"
+          }
+        },
+        {
+          "name": "string_2",
+          "type": "STRING",
+          "link": 34,
+          "widget": {
+            "name": "string_2"
+          }
+        },
+        {
+          "name": "string_3",
+          "type": "STRING",
+          "link": 35
+        },
+        {
+          "name": "string_4",
+          "type": "STRING",
+          "link": 36
+        },
+        {
+          "name": "string_5",
+          "type": "STRING",
+          "link": 37
+        },
+        {
+          "name": "string_6",
+          "type": "STRING",
+          "link": 38
+        }
+      ],
+      "outputs": [
+        {
+          "name": "string",
+          "type": "STRING",
+          "links": [
+            39
+          ],
+          "label": "字符串",
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "JoinStringMulti"
+      },
+      "widgets_values": [
+        6,
+        "",
+        "",
+        ",",
+        false,
+        null
+      ]
+    }
+  ],
+  "links": [
+    [
+      1,
+      1,
+      0,
+      2,
+      0,
+      "IMAGE"
+    ],
+    [
+      2,
+      2,
+      0,
+      4,
+      0,
+      "STRING"
+    ],
+    [
+      31,
+      18,
+      0,
+      4,
+      1,
+      "STRING"
+    ],
+    [
+      32,
+      20,
+      0,
+      4,
+      2,
+      "STRING"
+    ],
+    [
+      33,
+      4,
+      1,
+      21,
+      0,
+      "STRING"
+    ],
+    [
+      34,
+      4,
+      2,
+      21,
+      1,
+      "STRING"
+    ],
+    [
+      35,
+      4,
+      3,
+      21,
+      2,
+      "STRING"
+    ],
+    [
+      36,
+      4,
+      4,
+      21,
+      3,
+      "STRING"
+    ],
+    [
+      37,
+      4,
+      5,
+      21,
+      4,
+      "STRING"
+    ],
+    [
+      38,
+      4,
+      6,
+      21,
+      5,
+      "STRING"
+    ],
+    [
+      39,
+      21,
+      0,
+      6,
+      0,
+      "STRING"
+    ]
+  ],
+  "groups": [],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 0.964614964500034,
+      "offset": [
+        1272.8094432315263,
+        262.3558710765878
+      ]
+    }
+  },
+  "version": 0.4
+}
